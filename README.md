@@ -38,15 +38,27 @@ References:
  Github documentation: https://docs.github.com/en/github 
 
 Glossary
-Branch: A separate version of the code that allows for parallel development without affecting the main codebase.
-Clone: To make a copy of a repository on your local machine for editing and testing.
-Commit: A record of changes made to a repository along with a message describing those changes.
-Fetch: To download changes from the remote repository to your local machine.
-GIT: A version control system that allows developers to manage and track changes to code over time.
-Github: A web-based hosting service for Git repositories.
-Merge: To combine changes from one branch into another branch or the main branch.
-Merge Conflict: A situation where Git is unable to automatically merge changes made to the same file by different branches.
-Push: To upload changes from your local machine to the remote repository.
-Pull: To download changes from the remote repository to your local machine and merge them with your local changes.
-Remote: A copy of a repository hosted on a server that can be accessed and modified by multiple users.
-Repository: A location where code is stored and managed using Git.
+
+1. Branch: A separate version of the code that allows for parallel development without affecting the main codebase.
+
+2. Clone: To make a copy of a repository on your local machine for editing and testing.
+
+3. Commit: A record of changes made to a repository along with a message describing those changes.
+
+4. Fetch: To download changes from the remote repository to your local machine.
+
+5. GIT: A version control system that allows developers to manage and track changes to code over time.
+
+6. Github: A web-based hosting service for Git repositories.
+
+7.Merge: To combine changes from one branch into another branch or the main branch.
+
+8. Merge Conflict: A situation where Git is unable to automatically merge changes made to the same file by different branches.
+
+9. Push: To upload changes from your local machine to the remote repository.
+
+10. Pull: To download changes from the remote repository to your local machine and merge them with your local changes.
+
+11. Remote: A copy of a repository hosted on a server that can be accessed and modified by multiple users.
+
+12. Repository: A location where code is stored and managed using Git.
